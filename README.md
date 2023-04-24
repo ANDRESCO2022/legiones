@@ -1,4 +1,4 @@
-# Legion del Mal
+# Legion
 
 Un repositorio para conquistar el mundo
 
